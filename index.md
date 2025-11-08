@@ -21,7 +21,7 @@ My research interests lie in Partial Differential Equation(PDE) and Geometric me
 
 **Paper:**
 
-Li, J., Wang, J., \& Ying, Z. (2025). Nadirashvili's Conjecture for Elliptic PDEs and its Applications. arXiv preprint arXiv:2508.07861.
+Li, J., Wang, J. and Ying, Z. (2025). Nadirashvili's Conjecture for Elliptic PDEs and its Applications. arXiv preprint arXiv:2508.07861.
 
 
 **Students Research Training Program:**
