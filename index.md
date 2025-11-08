@@ -4,7 +4,7 @@ Welcome to Ying Zhichen's homepage!
 
 **About:**
 
-I'm now a third year student in School of Mathematics at Zhejiang Univeristy. Here is my CV.
+I'm now a fourth year student in School of Mathematics at Zhejiang Univeristy. Here is my CV.
 
 **Contact:** Yingzc059[at]gmail[dot]com
 
@@ -17,15 +17,12 @@ I'm now a third year student in School of Mathematics at Zhejiang Univeristy. He
 
 **Research Interests:**
 
-My research interests lie in Partial Differential Equation(PDE) and Analysis. Recently, I am studying the nodal set of Laplace eigenfunction, following the work of Logunov.
+My research interests lie in Partial Differential Equation(PDE) and Geometric measure theory. Recently, I am studying geometry measure theory and its application.
 
 **Paper:**
 
-Not yet :(
+Li, J., Wang, J., \& Ying, Z. (2025). Nadirashvili's Conjecture for Elliptic PDEs and its Applications. arXiv preprint arXiv:2508.07861.
 
-**Talk:**
-
-Not yet :(
 
 **Students Research Training Program:**
 
@@ -38,6 +35,7 @@ Supervisor: Prof.Wei Wang
 **Teaching:**
 
 **TA:**
+PDE(H) Fall 2025 in ZJU
 
 ODE Spring 2025 in ZJU
 
