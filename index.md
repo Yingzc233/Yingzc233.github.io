@@ -6,7 +6,7 @@ Welcome to Ying Zhichen's homepage!
 
 I'm now a fourth year student in School of Mathematics at Zhejiang Univeristy. Here is my CV.
 
-**Contact:** Yingzc059[at]gmail[dot]com
+**Contact:** Yingzc059[at]gmail[dot]com, yingzhichen[at]zju[dot]edu[dot]cn (perfer)
 
 ****
 
