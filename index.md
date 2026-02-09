@@ -6,7 +6,7 @@ Welcome to Ying Zhichen's homepage!
 
 I'm now a fourth year student in School of Mathematics at Zhejiang Univeristy. I have accepted the offer from University of Warwick and am expected to study under the supervision of Prof. Filip Rindler after 10.2026
 
-Here is my CV.
+Here is my [CV](CV.pdf).
 
 **Contact:** yingzc059[at]gmail[dot]com, yingzhichen[at]zju[dot]edu[dot]cn (perfer)
 
